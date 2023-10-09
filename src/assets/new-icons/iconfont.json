@@ -1,0 +1,51 @@
+{
+  "id": "2458331",
+  "name": "my",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20416226",
+      "name": "宠物寄养",
+      "font_class": "chongwujiyang",
+      "unicode": "ed05",
+      "unicode_decimal": 60677
+    },
+    {
+      "icon_id": "20416227",
+      "name": "宠物玩具",
+      "font_class": "chongwuwanju",
+      "unicode": "ed06",
+      "unicode_decimal": 60678
+    },
+    {
+      "icon_id": "20416228",
+      "name": "狗狗出售",
+      "font_class": "gougouchushou",
+      "unicode": "ed07",
+      "unicode_decimal": 60679
+    },
+    {
+      "icon_id": "20416229",
+      "name": "宠物美容",
+      "font_class": "chongwumeirong",
+      "unicode": "ed08",
+      "unicode_decimal": 60680
+    },
+    {
+      "icon_id": "15053909",
+      "name": "坐标",
+      "font_class": "24px",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1033982",
+      "name": "预览",
+      "font_class": "yulan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
